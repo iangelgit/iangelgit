@@ -24,7 +24,7 @@ I'am a computer engineering student 👨‍💻 who is passionate about technolo
 
 <br>
 
-![Static Badge](https://img.shields.io/badge/-javascript?style=for-the-badge&logo=visualstudiocode&logoColor=white&label=vscode&labelColor=%23007ACC&color=%23007ACC)![Static Badge](https://img.shields.io/badge/-javascript?style=for-the-badge&logo=nodedotjs&logoColor=white&label=nodejs&labelColor=%23339933&color=%23339933)![Static Badge](https://img.shields.io/badge/-javascript?style=for-the-badge&logo=android&logoColor=white&label=android&labelColor=black&color=black)![Static Badge](https://img.shields.io/badge/-javascript?style=for-the-badge&logo=git&logoColor=white&label=git&labelColor=%23F05032&color=%23F05032)![Static Badge](https://img.shields.io/badge/-javascript?style=for-the-badge&logo=discord&logoColor=white&label=discord&labelColor=%235865F2&color=%235865F2)
+![Static Badge](https://img.shields.io/badge/-javascript?style=for-the-badge&logo=visualstudiocode&logoColor=white&label=vscode&labelColor=%23007ACC&color=%23007ACC)![Static Badge](https://img.shields.io/badge/-javascript?style=for-the-badge&logo=nodedotjs&logoColor=white&label=nodejs&labelColor=%23339933&color=%23339933)![Static Badge](https://img.shields.io/badge/-javascript?style=for-the-badge&logo=android&logoColor=white&label=android&labelColor=black&color=black)![Static Badge](https://img.shields.io/badge/-javascript?style=for-the-badge&logo=git&logoColor=white&label=git&labelColor=%23F05032&color=%23F05032)
 
 <br>
 
