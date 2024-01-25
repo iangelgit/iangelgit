@@ -1,7 +1,9 @@
 # Ignacio Angelone
 
 
-![Static Badge](https://img.shields.io/badge/-a?style=flat-square&logo=x&logoColor=white&label=%40Ignacio%20angelone&labelColor=black&color=black&link=https%3A%2F%2Ftwitter.com%2FCugucyfdhddtx)
+[![Static Badge](https://img.shields.io/badge/-a?style=for-the-badge&logo=linkedin&logoColor=white&label=%40IGNACIO%20ANGELONE&labelColor=%230e76a8&color=%230e76a8&link=https%3A%2F%2Ftwitter.com%2FCugucyfdhddtx)](https://linkedin.com/in/IgnacioAngelone)[![Static Badge](https://img.shields.io/badge/-a?style=for-the-badge&logo=x&logoColor=white&label=%40LHARZE%20&labelColor=black&color=black&link=https%3A%2F%2Ftwitter.com%2FCugucyfdhddtx)](https://twitter.com/Cugucyfdhddtx)
+
+
 
 
 
