@@ -16,7 +16,7 @@ I'am a computer engineering student 👨‍💻 who is passionate about technolo
 
 <br>
 
-> Good luck!
+> 🌈 Good luck!
 
 <br>
 
