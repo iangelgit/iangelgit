@@ -4,9 +4,8 @@ I'am a computer engineering student 👨‍💻 who is passionate about technolo
 <br>
 
 - 🔭 I’m currently working on open source apps.
-- 🌱 I’m currently learning computer engineering.
+- 🌱 Also currently learning computer engineering.
 - 💬 Ask me about: tech, videogames, movies.
-- 🧒🏽 Pronouns: he/him.
 - 🚀 Languages: Java, javascript, html5, css3, react.
 - 🛠 Tools: Vscode, nodejs, git.
 
