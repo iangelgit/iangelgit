@@ -1,5 +1,5 @@
 # Ignacio (Anzhelone) Angelone
-I'am a computer engineering student 👨‍💻 who is passionate about technologies and open source. I'm also a self proclaimed graphic designer and internet surfer 🏄‍♂️. 
+As a computer engineering student 👨‍💻, I am deeply passionate about technologies and open source. Additionally, I'm a self-proclaimed graphic designer and internet surfer 🏄‍♂️, constantly riding the waves of creativity in digital realms. These diverse interests converge to fuel my drive for learning and creating, shaping me into a versatile explorer of the digital landscape 🌟.
 
 <br>
 
