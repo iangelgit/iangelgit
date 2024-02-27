@@ -29,6 +29,5 @@
 
 <br>
 
-<h3 align="center">Snake game</h3>
-
+<h3 align="center">Activity</h3>
 <img src="https://raw.githubusercontent.com/IgnacioAngelone/IgnacioAngelone/output/snake.svg" alt="Snake animation" />
