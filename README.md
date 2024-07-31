@@ -8,7 +8,7 @@
 
 <h3 align="center">About me</h3>
 
-<p align="center">🔭 I’m currently working on open source apps.<br>🌱 Also currently learning computer engineering.<br>💬 Ask me about: tech, videogames, movies.<br>🚀 Languages: Java, javascript, html5, css3, react.<br>🛠 Tools: Vscode and git.</p>
+<p align="center">🔭 I’m currently working on open source apps.<br>🌱 Also currently learning computer engineering.<br>💬 Ask me about: tech, videogames, movies.<br>🚀 Languages: Java, Python, javascript, react.<br>🛠 Tools: Vscode and git.</p>
 
 <br>
 
