@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>,  I'm Ignacio Angelone</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>,  I'm Iangel</h1>
 
 <p align="center">As a computer engineering student 👨‍💻, I am deeply passionate about technologies and open source. Additionally, I'm a self-proclaimed graphic designer and internet surfer 🏄‍♂️, constantly riding the waves of creativity in digital realms. These diverse interests converge to fuel my drive for learning and creating, shaping me into a versatile explorer of the digital landscape 🌟.</p>
 
@@ -22,5 +22,6 @@ Profile stats</h3>
 
 <br>
 
-<h3 align="center">Activity</h3>
+<h3 align
+="center">Activity</h3>
 <img src="https://raw.githubusercontent.com/IgnacioAngelone/IgnacioAngelone/output/snake.svg" alt="Snake animation" />
