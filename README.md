@@ -11,17 +11,3 @@
 <p align="center">🔭 I’m currently working on open source apps.<br>🌱 Also currently learning computer engineering.<br>💬 Ask me about: tech, videogames, movies.<br>🚀 Languages: Java, Python, javascript, react.<br>🛠 Tools: Vscode and git.</p>
 
 <br>
-
-<h3 align="center">
-Profile stats</h3>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IgnacioAngelone&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
-</div>
-
-<br>
-
-<h3 align
-="center">Activity</h3>
-<img src="https://raw.githubusercontent.com/IgnacioAngelone/IgnacioAngelone/output/snake.svg" alt="Snake animation" />
