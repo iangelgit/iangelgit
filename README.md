@@ -28,7 +28,6 @@ Estudio en la Universidad de Buenos Aires, me interesa especialmente entender cÃ
 ### Lenguajes y herramientas
 Algunos lenguajes y herramientas que utilice para hacer algunos proyectos y desarrollos de forma independiente.
 
-</br>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
